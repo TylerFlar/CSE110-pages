@@ -1,4 +1,4 @@
-[Main Page](../index.html)
+[Main Page](https://tylerflar.github.io/CSE110-pages/)
 
 <h1 align="center">Education</h1>
 <table>

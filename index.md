@@ -11,7 +11,7 @@
             <td>
                 <ul>
                     <li>tylerflar@gmail.com</li>
-                    <li><a href="/pages/links.html">Links</a></li>
+                    <li><a href="https://tylerflar.github.io/CSE110-pages/pages/links">Links</a></li>
                 </ul>
             </td>
         </tr>
@@ -19,8 +19,8 @@
         <tr>
             <td width="50%">
                 <ul>
-                    <li><a href="/pages/education.html">Education</a></li>
-                    <li><a href="/pages/projects.html">Projects</a></li>
+                    <li><a href="https://tylerflar.github.io/CSE110-pages/pages/education.html">Education</a></li>
+                    <li><a href="https://tylerflar.github.io/CSE110-pages/pages/projects.html">Projects</a></li>
                 </ul>
             </td>
         </tr>
