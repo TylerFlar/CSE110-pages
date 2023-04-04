@@ -1,4 +1,4 @@
-[Main Page](../index)
+[Main Page](../index.html)
 
 <h1 align="center">Education</h1>
 <table>

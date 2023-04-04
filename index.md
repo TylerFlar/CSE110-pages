@@ -4,14 +4,14 @@
         <tr>
             <td><b> Infomation </b></td>
             <td width="50%" rowspan="4">
-                <img width="200" alt="Photo" src="./picture.jpeg"/>
+                <img width="300" alt="Photo" src="./picture.jpeg"/>
             </td>
         </tr>
         <tr>
             <td>
                 <ul>
                     <li>tylerflar@gmail.com</li>
-                    <li><a href="/pages/links">Links</a></li>
+                    <li><a href="/pages/links.html">Links</a></li>
                 </ul>
             </td>
         </tr>
@@ -19,8 +19,8 @@
         <tr>
             <td width="50%">
                 <ul>
-                    <li><a href="/pages/education">Education</a></li>
-                    <li><a href="/pages/projects">Projects</a></li>
+                    <li><a href="/pages/education.html">Education</a></li>
+                    <li><a href="/pages/projects.html">Projects</a></li>
                 </ul>
             </td>
         </tr>

@@ -1,4 +1,4 @@
-[Main Page](../index)
+[Main Page](../index.html)
 
 <h1 align="center">Projects</h1>
 
