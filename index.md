@@ -53,7 +53,7 @@ int* ptr = nullptr;
 
 <h3>States I've been to:</h3>
 
-* California
+* __California__ (Home)
 * Nevada
 * Arizona
 * Colorado
