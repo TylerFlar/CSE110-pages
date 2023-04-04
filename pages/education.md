@@ -1,4 +1,4 @@
-[Main Page](../index.md)
+[Main Page](../index)
 
 <h1 align="center">Education</h1>
 <table>
