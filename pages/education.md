@@ -8,6 +8,6 @@
             University of California San Diego - La Jolla, CA<br />
             GPA: 3.8<br/>
         </td>
-        <td><image alt="UCSD" src="./images/ucsd.png"></td>
+        <td><image width="100" alt="UCSD" src="./images/ucsd.png"/></td>
     </tr>
 </table> 
