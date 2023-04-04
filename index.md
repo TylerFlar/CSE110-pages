@@ -11,7 +11,7 @@
             <td>
                 <ul>
                     <li>tylerflar@gmail.com</li>
-                    <li><a href="./pages/links.md">Links</a></li>
+                    <li><a href="/pages/links.md">Links</a></li>
                 </ul>
             </td>
         </tr>
@@ -19,8 +19,8 @@
         <tr>
             <td width="50%">
                 <ul>
-                    <li><a href="./pages/education.md">Education</a></li>
-                    <li><a href="./pages/projects.md">Projects</a></li>
+                    <li><a href="/pages/education.md">Education</a></li>
+                    <li><a href="/pages/projects.md">Projects</a></li>
                 </ul>
             </td>
         </tr>
